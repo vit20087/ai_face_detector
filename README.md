@@ -19,15 +19,13 @@
 - **[NumPy](https://numpy.org/)** та **[Pillow (PIL)](https://pillow.readthedocs.io/)** — для роботи з масивами пікселів та форматами зображень.
 
 ## 📸 Демонстрація роботи
-
-*(Додайте сюди скріншот вашої програми, попередньо завантаживши його в репозиторій. Наприклад:)*
-`![Інтерфейс програми](screenshot.jpg)`
+<img width="1512" height="829" alt="image" src="https://github.com/user-attachments/assets/74d87326-35c4-474a-aa42-3dc166cc612d" />
 
 ## 🚀 Як запустити локально
 
 1. Склонуйте цей репозиторій на свій комп'ютер:
    ```bash
-   git clone [https://github.com/ВАШ_ЛОГІН/НАЗВА_РЕПОЗИТОРІЮ.git](https://github.com/ВАШ_ЛОГІН/НАЗВА_РЕПОЗИТОРІЮ.git)
+   git clone [https://github.com/vit20087/ai_face_detector.git]
 2. Перейдіть у папку з проєктом:
    ```bash
    cd ai_face_detector
